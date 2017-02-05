@@ -7,4 +7,5 @@
    ![](https://github.com/HLyong/MusicPlayer/blob/master/1.gif)
 
 <br>
-链接：https://hlyong.github.io/mineSweeping/
+链接：https://hlyong.github.io/MusicPlayer/
+
